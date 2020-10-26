@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практическая работа Ресурсы и Стили", "Практическая работа Ресурсы и Стили\Практическая работа Ресурсы и Стили.csproj", "{1B03D5FD-EECA-4871-976B-1C7979B2C49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B03D5FD-EECA-4871-976B-1C7979B2C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B03D5FD-EECA-4871-976B-1C7979B2C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B03D5FD-EECA-4871-976B-1C7979B2C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B03D5FD-EECA-4871-976B-1C7979B2C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E3B861F-98D9-44DA-A24F-6F930BD2B257}
+	EndGlobalSection
+EndGlobal
